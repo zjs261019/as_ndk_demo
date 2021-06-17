@@ -1,2 +1,2 @@
-#ndk_demo
-# ndk
+#as_ndk_demo
+# androidstudio ndk so
